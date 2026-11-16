@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="icon.png" width="96" alt="Eclipse logo"><br>
+  <img src="eclipse-wordmark.png" width="96" alt="Eclipse logo"><br>
   Eclipse
 </h1>
 
