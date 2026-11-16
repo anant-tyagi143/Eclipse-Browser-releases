@@ -53,5 +53,7 @@ Need an older version? See [all releases](https://github.com/anant-tyagi143/Ecli
 ---
 
 <p align="center">
-  Made by <a href="https://github.com/anant-tyagi143">Anant Tyagi</a> · MIT-style open for feedback
+  Made by <a href="https://github.com/anant-tyagi143">Anant Tyagi</a> <p align="center">
+  © 2026 Anant Tyagi. All rights reserved.
+</p>
 </p>
